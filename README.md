@@ -51,6 +51,4 @@ AzureOS is ideal for users who prioritize privacy, security, and performance. Wh
 
 By eliminating unwanted bloat, optimizing performance, and integrating powerful privacy and security features, AzureOS provides a truly unique experience that allows users to take full control of their system.
 
----
 
-For more information or to get started, visit our [official website](https://yourwebsite.com) (add the link manually).
