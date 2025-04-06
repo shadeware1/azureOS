@@ -1,7 +1,7 @@
 # AzureOS Overview
 
-<img src="https://i.imgur.com/5jSgOJw.png" alt="AzureOS Logo" width="300" height="300"/>
-<img src="https://i.imgur.com/I46LHHt.png" alt="Secondary Logo" width="300" height="300"/>
+
+<img src="https://i.imgur.com/I46LHHt.png" alt="Secondary Logo" width="300" height="300"/>  <img src="https://i.imgur.com/5jSgOJw.png" alt="AzureOS Logo" width="300" height="300"/>
 
 ## What is AzureOS?
 
